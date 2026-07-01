@@ -1,0 +1,264 @@
+Manufacturer,Model name,Category,Screen,Screen Size,CPU,RAM,Storage,Operating System,Operating System Version,Weight,Price,GPU
+HP,15-bs053od,Notebook,1366x768,"15.6""",Intel Core i7,6GB,1TB,Windows,10,2.04kg,5148468,Intel HD Graphics
+Asus,Rog,Gaming,Full HD,"17.3""",Intel Core i7,16GB,256GB,Windows,10,2.99kg,15552108,Nvidia GeForce
+Dell,Inspiron,2in1 Convertible,IPS Panel,"15.6""",Intel Core i7,12GB,512GB,Windows,10,2.19kg,11550708,Intel HD Graphics
+Toshiba,Portege,Notebook,Full HD,"13.3""",Intel Core i5,4GB,128GB,Windows,7,1.2kg,10625940,Intel HD Graphics
+Lenovo,IdeaPad,Notebook,Full HD,"15.6""",AMD A12-Series,6GB,256GB,Windows,10,2.2kg,4881708,AMD Radeon 530
+Fujitsu,LifeBook,Notebook,1366x768,"15.6""",Intel Core i5,4GB,256GB,Windows,10,2.3kg,5770908,Intel HD Graphics
+Toshiba,Tecra,Notebook,1366x768,"14.0""",Intel Core i5,4GB,500GB,Windows,10,1.75kg,8136180,Intel HD Graphics
+Dell,Inspiron,Notebook,1366x768,"15.6""",Intel Core i5,4GB,500GB,Windows,10,2.25kg,5326308,AMD Radeon R5 
+HP,Probook,Notebook,Full HD,"15.6""",Intel Core i5,8GB,1TB,Windows,10,2.04kg,7166952,Intel HD Graphics
+Lenovo,Legion,Gaming,IPS Panel,"15.6""",Intel Core i7,8GB,128GB,Windows,10,2.5kg,10572588,Nvidia GeForce
+Dell,Inspiron,Notebook,1366x768,"15.6""",Intel Core i7,8GB,1TB,Windows,10,2.36kg,6660108,AMD Radeon R7 
+Dell,Latitude,Notebook,Full HD,"14.0""",Intel Core i5,8GB,128GB,Windows,10,1.6kg,9950148,Intel HD Graphics
+HP,EliteBook,Netbook,Full HD,"12.5""",Intel Core M ,8GB,512GB,Windows,10,0.97kg,16965936,Intel HD Graphics
+HP,15-bs005nv,Notebook,Full HD,"15.6""",Intel Core i3,4GB,128GB,Windows,10,2.1kg,4437108,AMD Radeon 520
+Lenovo,ThinkPad,Notebook,Full HD,"15.6""",Intel Core i5,8GB,256GB,Windows,10,2.3kg,11995308,Intel HD Graphics
+Dell,Inspiron,2in1 Convertible,Full HD,"13.3""",Intel Core i5,8GB,256GB,Windows,10,1.68kg,7904988,Intel HD Graphics
+Asus,ZenBook,Notebook,Quad HD+,"13.3""",Intel Core i5,8GB,256GB,Windows,10,1.4kg,10225800,Intel HD Graphics
+HP,Spectre,Ultrabook,IPS Panel,"13.3""",Intel Core i7,8GB,256GB,Windows,10,1.11kg,11995308,Intel HD Graphics
+Acer,Aspire,Notebook,1366x768,"15.6""",Intel Pentium,4GB,500GB,Windows,10,2.4kg,3378960,Intel HD Graphics
+Asus,Rog,Gaming,Full HD,"15.6""",Intel Core i7,16GB,256GB,Windows,10,2.5kg,15996708,Nvidia GeForce
+HP,EliteBook,Ultrabook,Full HD,"14.0""",Intel Core i7,8GB,512GB,Windows,10,1.48kg,18575388,Intel HD Graphics
+Acer,Nitro,Gaming,IPS Panel,"15.6""",Intel Core i7,8GB,128GB,Windows,10,2.7kg,11203920,Nvidia GeForce
+HP,ENVY,Notebook,IPS Panel,"13.3""",Intel Core i5,8GB,256GB,Windows,10,1.34kg,10572588,Intel HD Graphics
+Dell,Vostro,Notebook,1366x768,"15.6""",Intel Core i3,4GB,128GB,Windows,10,2.18kg,4863924,Intel HD Graphics
+HP,Probook,Notebook,1366x768,"14.0""",Intel Core i5,4GB,500GB,Windows,10,1.64kg,6926868,Intel HD Graphics
+Toshiba,Portege,Notebook,Full HD,"13.3""",Intel Core i5,4GB,128GB,Windows,10,1.2kg,10625940,Intel HD Graphics
+HP,EliteBook,Notebook,1366x768,"14.0""",Intel Core i5,4GB,256GB,Windows,10,1.48kg,9781111.08,Intel HD Graphics
+HP,ProBook,Notebook,Full HD,"14.0""",Intel Core i5,4GB,256GB,Windows,10,1.95kg,10714860,Intel HD Graphics
+HP,EliteBook,Ultrabook,Full HD,"14.0""",Intel Core i7,8GB,256GB,Windows,7,1.43kg,12884508,Intel HD Graphics
+HP,ProBook,Notebook,Full HD,"14.0""",Intel Core i5,8GB,256GB,Windows,10,1.64kg,9330019.92,Nvidia GeForce
+HP,Probook,Notebook,1366x768,"14.0""",Intel Core i3,4GB,500GB,Windows,10,1.64kg,6082128,Intel HD Graphics
+Dell,Inspiron,Gaming,Full HD,"15.6""",Intel Core i5,8GB,1TB,Windows,10,2.65kg,8438508,Nvidia GeForce
+HP,EliteBook,Ultrabook,Full HD,"12.5""",Intel Core i5,4GB,500GB,Windows,10,1.26kg,13684788,Intel HD Graphics
+HP,Elitebook,Notebook,Full HD,"14.0""",Intel Core i5,4GB,256GB,Windows,10,1.48kg,14138280,Intel HD Graphics
+HP,EliteBook,Ultrabook,Full HD,"14.0""",Intel Core i7,8GB,256GB,Windows,10,1.54kg,16781071.32,Intel HD Graphics
+HP,Probook,Notebook,1366x768,"13.3""",Intel Core i3,4GB,500GB,Windows,10,1.49kg,7113600,Intel HD Graphics
+Toshiba,Portege,Notebook,1366x768,"13.3""",Intel Core i5,8GB,256GB,Windows,10,1.5kg,10759320,Intel HD Graphics
+HP,ProBook,Notebook,1366x768,"15.6""",Intel Core i3,4GB,256GB,Windows,10,2.04kg,6846751.08,Intel HD Graphics
+Lenovo,ThinkPad,Notebook,IPS Panel,"17.3""",Intel Core i7,16GB,512GB,Windows,7,2.4kg,26391456,Nvidia Quadro 
+Toshiba,Tecra,Notebook,IPS Panel,"14.0""",Intel Core i5,8GB,256GB,Windows,10,1.47kg,13249080,Intel HD Graphics
+HP,EliteBook,Notebook,Full HD,"14.0""",Intel Core i7,8GB,256GB,Windows,10,1.43kg,19820268,Intel HD Graphics
+Dell,Inspiron,2in1 Convertible,IPS Panel,"15.6""",Intel Core i3,4GB,1TB,Windows,10,2.08kg,7077943.08,Intel HD Graphics
+Toshiba,Portégé,Ultrabook,Full HD,"13.3""",Intel Core i5,8GB,256GB,Windows,10,1.2kg,14138280,Intel HD Graphics
+HP,Spectre,Notebook,IPS Panel,"13.3""",Intel Core i5,8GB,256GB,Windows,10,1.11kg,10216908,Intel HD Graphics
+HP,ProBook,Notebook,Full HD,"14.0""",Intel Core i7,8GB,256GB,Windows,10,1.64kg,10540843.56,Nvidia GeForce
+Dell,Latitude,Notebook,Full HD,"15.6""",Intel Core i5,8GB,500GB,Windows,10,2.09kg,9304944.48,Intel HD Graphics
+HP,Elitebook,Ultrabook,1366x768,"12.5""",Intel Core i5,4GB,256GB,Windows,10,1.26kg,13862628,Intel HD Graphics
+HP,ProBook,Notebook,1366x768,"14.0""",Intel Core i5,4GB,500GB,Windows,10,2.31kg,10572588,Intel HD Graphics
+HP,ProBook,Notebook,1366x768,"14.0""",Intel Core i5,4GB,500GB,Windows,10,1.95kg,9425520,Intel HD Graphics
+Dell,XPS,Ultrabook,Quad HD+,"13.3""",Intel Core i5,8GB,256GB,Windows,10,1.29kg,14440608,Intel HD Graphics
+HP,Probook,Notebook,Full HD,"17.3""",Intel Core i5,8GB,256GB,Windows,10,2.63kg,9603360,Nvidia GeForce
+HP,ProBook,Notebook,1366x768,"14.0""",Intel Core i5,4GB,256GB,Windows,10,1.64kg,8651916,Intel HD Graphics
+Acer,Aspire,Notebook,1366x768,"15.6""",AMD A9-Series,6GB,1TB,Windows,10,2.1kg,3636828,AMD Radeon R5
+MSI,GL72M,Gaming,Full HD,"17.3""",Intel Core i7,8GB,128GB,Windows,10,2.7kg,10597485.6,Nvidia GeForce
+HP,Probook,Notebook,Full HD,"14.0""",Intel Core i5,8GB,256GB,Windows,7,1.95kg,10625940,Intel HD Graphics
+HP,EliteBook,Notebook,Full HD,"15.6""",Intel Core i7,8GB,256GB,Windows,10,1.84kg,10928179.08,Intel HD Graphics
+HP,EliteBook,Ultrabook,Full HD,"12.5""",Intel Core i7,8GB,256GB,Windows,10,1.26kg,11995308,Intel HD Graphics
+HP,ProBook,Notebook,1366x768,"15.6""",Intel Core i5,4GB,500GB,Windows,10,2.04kg,6597864,Intel HD Graphics
+Toshiba,Tecra,Ultrabook,IPS Panel,"14.0""",Intel Core i7,8GB,256GB,Windows,10,1.47kg,15338700,Intel HD Graphics
+Dell,Latitude,Notebook,Full HD,"15.6""",Intel Core i5,8GB,256GB,Windows,7,2.09kg,9451751.4,Intel HD Graphics
+HP,ProBook,Notebook,Full HD,"14.0""",Intel Core i5,8GB,256GB,Windows,10,1.64kg,8985454.92,Intel HD Graphics
+Lenovo,Yoga,2in1 Convertible,IPS Panel,"15.6""",Intel Core i7,4GB,256GB,Windows,10,1.8kg,7531524,Intel HD Graphics
+Vero,V142,Notebook,1366x768,"14.0""",Intel Atom X5,2GB,32GB,Windows,10,1.45kg,1874433.6,Intel HD Graphics
+Toshiba,Tecra,Notebook,IPS Panel,"15.6""",Intel Core i7,16GB,256GB,Windows,10,2.4kg,12671100,Nvidia GeForce
+Lenovo,Thinkpad,Notebook,Full HD,"15.6""",Intel Core i5,8GB,256GB,Windows,10,2.3kg,9333043.2,Intel HD Graphics
+HP,EliteBook,Notebook,Full HD,"14.0""",Intel Core i5,4GB,500GB,Windows,10,1.54kg,8892000,Intel HD Graphics
+HP,EliteBook,Notebook,Full HD,"15.6""",Intel Core i5,8GB,256GB,Windows,10,1.84kg,18702899.28,Intel HD Graphics
+HP,EliteBook,Notebook,Full HD,"14.0""",Intel Core i5,8GB,256GB,Windows,7,1.43kg,13062348,Intel HD Graphics
+MSI,GT72S,Gaming,IPS Panel,"17.3""",Intel Core i7,16GB,256GB,Windows,10,3.78kg,13743830.88,Nvidia GeForce
+Lenovo,IdeaPad,Gaming,IPS Panel,"17.3""",Intel Core i7,16GB,128GB,Windows,10,4.6kg,20362591.08,Nvidia GeForce
+Lenovo,ThinkPad,Notebook,IPS Panel,"14.0""",Intel Core i7,16GB,256GB,Windows,7,1.1kg,23297040,Intel HD Graphics
+HP,Noteb,Notebook,IPS Panel,"15.6""",Intel Core i7,8GB,1TB,Windows,10,1.91kg,8705268,Nvidia GeForce
+Dell,Inspiron,2in1 Convertible,IPS Panel,"15.6""",Intel Core i5,8GB,256GB,Windows,10,2.3kg,9727848,Intel HD Graphics
+HP,ProBook,Notebook,1366x768,"15.6""",Intel Core i5,4GB,256GB,Windows,10,2.04kg,8705268,Intel HD Graphics
+Dell,XPS,Ultrabook,Quad HD+,"13.3""",Intel Core i7,16GB,1TB,Windows,10,1.2kg,20042568,Intel HD Graphics
+HP,ProBook,Notebook,1366x768,"15.6""",Intel Core i3,4GB,500GB,Windows,10,2.31kg,6270193.8,Intel HD Graphics
+Acer,Aspire,Notebook,1366x768,"15.6""",AMD A8-Series,8GB,1TB,Windows,10,2.4kg,3992508,AMD Radeon R5
+Dell,Inspiron,2in1 Convertible,IPS Panel,"13.3""",Intel Core i7,12GB,256GB,Windows,10,1.6kg,11550708,Intel HD Graphics
+MSI,GT62VR,Gaming,Full HD,"15.6""",Intel Core i7,16GB,256GB,Windows,10,2.94kg,16174548,Nvidia GeForce
+HP,ProBook,Notebook,Full HD,"15.6""",Intel Core i7,8GB,256GB,Windows,10,2.04kg,9514440,Intel HD Graphics
+Dell,Inspiron,Notebook,Full HD,"15.6""",Intel Core i5,4GB,1TB,Windows,10,2.25kg,4970628,Intel HD Graphics
+Dell,Inspiron,Notebook,Full HD,"15.6""",Intel Core i7,16GB,2TB,Windows,10,2.32kg,8802991.08,AMD Radeon R7 
+MSI,GS63VR,Gaming,Full HD,"15.6""",Intel Core i7,16GB,256GB,Windows,10,1.8kg,17152668,Nvidia GeForce
+Dell,XPS,Ultrabook,Full HD,"13.3""",Intel Core i7,8GB,256GB,Windows,10,1.29kg,12964536,Intel HD Graphics
+Asus,ROG,Gaming,IPS Panel,"17.3""",Intel Core i7,64GB,1TB,Windows,10,3.58kg,35345700,Nvidia GeForce
+Dell,Inspiron,2in1 Convertible,Full HD,"13.3""",Intel Core i7,8GB,256GB,Windows,10,1.62kg,7095904.92,Intel HD Graphics
+Dell,Alienware,Gaming,4K Ultra,"15.6""",Intel Core i7,16GB,256GB,Windows,10,3.21kg,11817468,Nvidia GeForce
+Dell,Latitude,Notebook,1366x768,"15.6""",Intel Core i3,4GB,500GB,Windows,10,2.06kg,4285766.16,Intel HD Graphics
+HP,ProBook,Notebook,1366x768,"15.6""",Intel Core i5,4GB,500GB,Windows,10,2.31kg,10661508,Intel HD Graphics
+HP,EliteBook,Ultrabook,Full HD,"12.5""",Intel Core i5,8GB,256GB,Windows,7,1.26kg,10661508,Intel HD Graphics
+HP,ProBook,Notebook,Full HD,"13.3""",Intel Core i7,8GB,256GB,Windows,10,1.49kg,9692280,Intel HD Graphics
+Lenovo,ThinkPad,Ultrabook,IPS Panel,"12.5""",Intel Core i7,8GB,256GB,Windows,10,1.3kg,15236353.08,Intel HD Graphics
+Lenovo,IdeaPad,Notebook,1600x900,"17.3""",Intel Core i5,8GB,1TB,Windows,10,3.0kg,5859828,AMD Radeon R5 
+Lenovo,Ideapad,Notebook,IPS Panel,"15.6""",Intel Core i5,4GB,1TB,Windows,10,2.3kg,8687484,Nvidia GeForce
+MSI,GT72VR,Gaming,Full HD,"17.3""",Intel Core i7,16GB,256GB,Windows,10,3.78kg,22221108,Nvidia GeForce
+Lenovo,V110-15ISK,Notebook,1366x768,"15.6""",Intel Core i5,4GB,500GB,Windows,10,2.1kg,4801680,Intel HD Graphics
+HP,Probook,Notebook,Full HD,"15.6""",Intel Core i5,4GB,500GB,Windows,7,2.31kg,8358480,Intel HD Graphics
+Lenovo,Yoga,Ultrabook,IPS Panel,"12.5""",Intel Core M ,8GB,512GB,Windows,10,0.99kg,12439908,Intel HD Graphics
+Lenovo,IdeaPad,Gaming,IPS Panel,"17.3""",Intel Core i7,32GB,512GB,Windows,10,4.6kg,28810080,Nvidia GeForce
+Lenovo,Yoga,2in1 Convertible,IPS Panel,"10.1""",Intel Atom x5,4GB,64GB,Windows,10,0.69kg,5746632.84,Intel HD Graphics
+HP,Spectre,Ultrabook,IPS Panel,"13.3""",Intel Core i7,16GB,512GB,Windows,10,1.3kg,18219708,Intel HD Graphics
+Dell,Vostro,Notebook,Full HD,"15.6""",Intel Core i5,8GB,256GB,Windows,10,2.18kg,6669000,Intel HD Graphics
+HP,EliteBook,Notebook,Full HD,"14.0""",Intel Core i5,4GB,500GB,Windows,7,1.54kg,9167563.08,Intel HD Graphics
+HP,ZBook,Workstation,Full HD,"15.6""",Intel Core i7,8GB,256GB,Windows,7,1.9kg,13293540,AMD FirePro W4M
+Lenovo,ThinkPad,Notebook,Full HD,"14.0""",Intel Core i5,8GB,1GB,Windows,7,1.7kg,10661508,Intel HD Graphics
+Acer,Aspire,Notebook,1366x768,"15.6""",AMD A8-Series,4GB,500GB,Windows,10,2.4kg,3441204,AMD Radeon R5
+Asus,Rog,Gaming,IPS Panel,"17.3""",Intel Core i7,8GB,256GB,Windows,10,2.7kg,14218308,Nvidia GeForce
+Dell,Inspiron,Ultrabook,IPS Panel,"13.3""",Intel Core i5,4GB,256GB,Windows,10,1.4kg,7276768.2,AMD Radeon 530
+HP,Elitebook,Netbook,1366x768,"12.5""",Intel Core i5,4GB,128GB,Windows,7,2.4kg,14218308,Intel HD Graphics
+Acer,Aspire,Notebook,Full HD,"15.6""",Intel Core i5,8GB,256GB,Windows,10,2.4kg,7104708,Nvidia GeForce
+Dell,Inspiron,Notebook,Full HD,"15.6""",Intel Core i5,8GB,1TB,Windows,10,2.36kg,5680209.6,AMD Radeon R7 
+MSI,GS70,Gaming,Full HD,"17.3""",Intel Core i7,8GB,256GB,Windows,10,2.6kg,14218308,Nvidia GeForce
+HP,250,Notebook,1366x768,"15.6""",Intel Pentium,4GB,1TB,Windows,10,1.96kg,4446000,Intel HD Graphics
+Asus,G752VY-GC162T,Gaming,IPS Panel,"17.3""",Intel Core i7,16GB,128GB,Windows,10,4.3kg,20442708,Nvidia GeForce
+Dell,Latitude,Ultrabook,1366x768,"12.5""",Intel Core i3,4GB,500GB,Windows,7,1.5kg,10093753.8,Intel HD Graphics
+Dell,Latitude,Ultrabook,1366x768,"12.5""",Intel Core i3,4GB,128GB,Windows,7,1.5kg,10376697.24,Intel HD Graphics
+HP,ZBook,Workstation,IPS Panel,"17.3""",Intel Core i7,8GB,1TB,Windows,7,3.0kg,25777908,AMD FirePro W6M
+Lenovo,Legion,Gaming,Full HD,"15.6""",Intel Core i7,16GB,512GB,Windows,10,2.4kg,10661508,Nvidia GeForce
+Dell,Latitude,Ultrabook,1366x768,"12.5""",Intel Core i5,8GB,256GB,Windows,7,1.5kg,12565285.2,Intel HD Graphics
+MSI,GE72,Gaming,Full HD,"17.3""",Intel Core i7,8GB,128GB,Windows,10,2.9kg,13437501.48,Nvidia GeForce
+Lenovo,Yoga,2in1 Convertible,IPS Panel,"15.6""",Intel Core i5,4GB,256GB,Windows,10,2.1kg,7709364,Intel HD Graphics
+HP,15-bw011nv,Notebook,Full HD,"15.6""",AMD A6-Series,4GB,1TB,Windows,10,2.1kg,3539016,AMD Radeon R4
+Asus,Rog,Gaming,IPS Panel,"15.6""",Intel Core i7,16GB,128GB,Windows,10,2.59kg,11906388,Nvidia GeForce
+HP,EliteBook,Notebook,Quad HD+,"13.3""",Intel Core M ,8GB,256GB,Windows,10,1.16kg,15107508,Intel HD Graphics
+Dell,Vostro,Notebook,1366x768,"15.6""",Intel Core i5,4GB,500GB,Windows,7,2.24kg,6839281.8,AMD Radeon R5 
+Lenovo,V110-15ISK,Notebook,1366x768,"15.6""",Intel Core i3,4GB,128GB,Windows,10,2.1kg,3814668,Intel HD Graphics
+HP,Spectre,Ultrabook,Full HD,"13.3""",Intel Core i7,8GB,512GB,Windows,10,1.16kg,17508348,Intel HD Graphics
+Dell,XPS,Ultrabook,Full HD,"13.3""",Intel Core i7,8GB,256GB,Windows,10,1.23kg,12262068,Intel Iris Plu
+Lenovo,IdeaPad,Gaming,IPS Panel,"17.3""",Intel Core i7,16GB,256GB,Windows,10,4.6kg,24452911.08,Nvidia GeForce
+Razer,Blade,Ultrabook,Touchscreen,"12.5""",Intel Core i7,8GB,256GB,Windows,10,1.25kg,9149868,Intel HD Graphics
+Toshiba,Portege,Ultrabook,Full HD,"13.3""",Intel Core i7,16GB,512GB,Windows,10,1.05kg,19793592,Intel HD Graphics
+Asus,Rog,Gaming,Full HD,"17.3""",Intel Core i7,8GB,128GB,Windows,10,3.52kg,11670661.08,Nvidia GeForce
+Vero,V131,Notebook,Full HD,"13.3""",Intel Atom X5,4GB,32GB,Windows,10,1.35kg,1742832,Intel HD Graphics
+HP,Spectre,Notebook,Full HD,"13.3""",Intel Core i5,8GB,256GB,Windows,10,1.16kg,15027480,Intel HD Graphics
+HP,EliteBook,Notebook,Full HD,"14.0""",Intel Core i5,8GB,256GB,Windows,7,1.43kg,13453596,Intel HD Graphics
+Asus,VivoBook,Notebook,1366x768,"15.6""",Intel Core i3,4GB,1TB,Windows,10,2kg,3868020,Intel HD Graphics
+Lenovo,ThinkPad,2in1 Convertible,IPS Panel,"14.0""",Intel Core i7,8GB,256GB,Windows,10,1.8kg,14840748,Intel HD Graphics
+Lenovo,Yoga,2in1 Convertible,IPS Panel,"10.1""",Intel Atom x5,4GB,64GB,Windows,10,0.69kg,4259268,Intel HD Graphics
+HP,EliteBook,Ultrabook,1366x768,"12.5""",Intel Core i5,8GB,256GB,Windows,7,1.26kg,16850340,Intel HD Graphics
+HP,Omen,Gaming,IPS Panel,"17.3""",Intel Core i5,8GB,128GB,Windows,10,3.35kg,10039068,Nvidia GeForce
+HP,15-bs078cl,Notebook,1366x768,"15.6""",Intel Core i7,8GB,2TB,Windows,10,2.04kg,5593068,Intel HD Graphics
+Lenovo,ThinkPad,2in1 Convertible,IPS Panel,"14.0""",Intel Core i7,8GB,512GB,Windows,7,1.8kg,18231978.96,Nvidia Quadro 
+Asus,L403NA-GA013TS,Notebook,1366x768,"14.0""",Intel Celeron,4GB,32GB,Windows,10,1.5kg,2471976,Intel HD Graphics
+HP,250,Ultrabook,Full HD,"15.6""",Intel Core i7,8GB,256GB,Windows,10,1.84kg,6686784,Intel HD Graphics
+Acer,Aspire,Notebook,Full HD,"15.6""",Intel Core i5,4GB,1TB,Windows,10,2.23kg,5477472,Nvidia GeForce
+Lenovo,IdeaPad,Notebook,Full HD,"15.6""",Intel Core i7,16GB,1TB,Windows,10,2.5kg,9772308,AMD Radeon R7 
+HP,ZBook,Workstation,IPS Panel,"17.3""",Intel Core i7,8GB,256GB,Windows,7,3kg,35118064.8,Nvidia Quadro M
+Dell,Inspiron,Notebook,1366x768,"15.6""",Intel Core i5,8GB,1TB,Windows,10,2.5kg,6971328,AMD Radeon R7 
+MSI,GT72S,Gaming,Full HD,"17.3""",Intel Core i7,16GB,256GB,Windows,10,3.78kg,21331908,Nvidia GeForce
+HP,EliteBook,Ultrabook,Full HD,"15.6""",Intel Core i7,8GB,256GB,Windows,7,1.88kg,19310934.24,Intel HD Graphics
+Lenovo,ThinkPad,2in1 Convertible,IPS Panel,"14.0""",Intel Core i7,16GB,512GB,Windows,10,2.8kg,21696480,Intel HD Graphics
+MSI,GP62M,Gaming,Full HD,"15.6""",Intel Core i7,8GB,128GB,Windows,10,2.4kg,10161777.6,Nvidia GeForce
+HP,Spectre,2in1 Convertible,Full HD,"13.3""",Intel Core i5,8GB,256GB,Windows,10,1.48kg,14485068,Intel HD Graphics
+HP,ZBook,Workstation,IPS Panel,"15.6""",Intel Core i7,8GB,256GB,Windows,7,2.59kg,19820268,Nvidia Quadro M
+HP,Spectre,2in1 Convertible,Touchscreen,"13.3""",Intel Core i7,8GB,256GB,Windows,10,1.48kg,15996708,Intel HD Graphics
+HP,ZBook,Workstation,Full HD,"15.6""",Intel Core i7,8GB,256GB,Windows,7,2.0kg,16885908,Nvidia Quadro M
+HP,EliteBook,Ultrabook,Full HD,"12.5""",Intel Core i7,8GB,256GB,Windows,7,1.26kg,20424479.4,Intel HD Graphics
+Dell,Vostro,Notebook,Full HD,"15.6""",Intel Core i7,8GB,256GB,Windows,10,2.18kg,8980030.8,Nvidia GeForce
+HP,EliteBook,Notebook,Full HD,"15.6""",Intel Core i5,8GB,256GB,Windows,7,1.88kg,14040468,Intel HD Graphics
+Lenovo,ThinkPad,2in1 Convertible,IPS Panel,"14.0""",Intel Core i7,8GB,256GB,Windows,10,1.27kg,20798388,Intel HD Graphics
+HP,15-BA015wm,Notebook,1366x768,"15.6""",AMD E-Series ,4GB,500GB,Windows,10,1.86kg,2640924,AMD Radeon R2 
+Dell,Inspiron,Gaming,Full HD,"15.6""",Intel Core i7,8GB,1TB,Windows,10,2.62kg,10661508,Nvidia GeForce
+Dell,XPS,Notebook,IPS Panel,"15.6""",Intel Core i5,8GB,256GB,Windows,10,2.04kg,20013046.56,Nvidia GeForce
+HP,15-bw002nv,Notebook,Full HD,"15.6""",AMD A6-Series,4GB,256GB,Windows,10,1.91kg,4258289.88,AMD Radeon 520
+MSI,GP72M,Gaming,Full HD,"17.3""",Intel Core i7,16GB,256GB,Windows,10,2.7kg,13273977.6,Nvidia GeForce
+Lenovo,ThinkPad,Ultrabook,Full HD,"14.0""",Intel Core i7,12GB,512GB,Windows,7,1.4kg,20442708,Intel HD Graphics
+Lenovo,B51-80,Notebook,Full HD,"15.6""",Intel Core i5,8GB,1TB,Windows,10,2.5kg,7011253.08,AMD Radeon R5 
+HP,Spectre,2in1 Convertible,Touchscreen,"13.3""",Intel Core i7,8GB,512GB,Windows,10,1.48kg,18148572,Intel HD Graphics
+Lenovo,ThinkPad,Ultrabook,Full HD,"14.0""",Intel Core i7,8GB,256GB,Windows,7,1.7kg,13329108,Intel HD Graphics
+MSI,GS40,Gaming,Full HD,"14.0""",Intel Core i7,16GB,256GB,Windows,10,1.7kg,15729948,Nvidia GeForce
+HP,Pavilion,Gaming,IPS Panel,"15.6""",Intel Core i7,8GB,1TB,Windows,10,2.62kg,7993908,Nvidia GeForce
+Lenovo,IdeaPad,Notebook,1366x768,"15.6""",Intel Core i3,8GB,1TB,Windows,10,2.2kg,4081428,Intel HD Graphics
+Dell,Inspiron,Gaming,4K Ultra,"15.6""",Intel Core i7,8GB,128GB,Windows,10,2.62kg,13320216,Nvidia GeForce
+Lenovo,ThinkPad,Notebook,IPS Panel,"15.6""",Intel Core i5,8GB,256GB,Windows,10,1.95kg,12359880,Intel HD Graphics
+Lenovo,320-15ISK,Notebook,Full HD,"15.6""",Intel Core i3,4GB,1TB,Windows,10,2.2kg,4161456,Nvidia GeForce
+HP,Stream,Notebook,1366x768,"14.0""",Intel Celeron,2GB,32GB,Windows,10,1.44kg,2214108,Intel HD Graphics
+MSI,PL60,Gaming,IPS Panel,"15.6""",Intel Core i7,8GB,1TB,Windows,10,2.2kg,7460388,Nvidia GeForce
+HP,250,Notebook,Full HD,"15.6""",Intel Core i7,8GB,256GB,Windows,10,1.96kg,6037668,Intel HD Graphics
+HP,ProBook,Notebook,Full HD,"15.6""",Intel Core i7,16GB,512GB,Windows,10,2.1kg,10305828,Intel UHD Grapics
+Asus,X553SA-XX021T,Notebook,1366x768,"15.6""",Intel Celeron,4GB,500GB,Windows,10,2.2kg,3281148,Intel HD Graphics
+Asus,UX410UA-GV097T,Notebook,Full HD,"14.0""",Intel Core i3,4GB,256GB,Windows,10,2kg,6837948,Intel HD Graphics
+Lenovo,B51-80,Notebook,Full HD,"15.6""",Intel Core i7,4GB,1TB,Windows,7,2.32kg,7335900,Intel HD Graphics
+Lenovo,IdeaPad,Gaming,IPS Panel,"15.6""",Intel Core i7,16GB,512GB,Windows,10,3.31kg,11604060,Nvidia GeForce
+MSI,GS60,Gaming,Full HD,"15.6""",Intel Core i7,16GB,128GB,Windows,10,1.91kg,19147766.04,Nvidia GeForce
+HP,ProBook,Notebook,1366x768,"15.6""",Intel Core i3,4GB,500GB,Windows,10,2.07kg,5779800,Intel HD Graphics
+Lenovo,ThinkPad,2in1 Convertible,IPS Panel,"14.0""",Intel Core i5,8GB,256GB,Windows,10,1.36kg,14556204,Intel HD Graphics
+Lenovo,IdeaPad,Ultrabook,Full HD,"15.6""",Intel Core i7,6GB,256GB,Windows,10,1.54kg,7389252,Nvidia GeForce
+Acer,Aspire,Notebook,1366x768,"15.6""",Intel Celeron,4GB,500GB,Windows,10,2.1kg,2961036,Intel HD Graphics
+HP,Pavilion,Notebook,IPS Panel,"15.6""",Intel Core i7,6GB,1TB,Windows,10,2.18kg,7104708,Nvidia GeForce
+Asus,Rog,Gaming,IPS Panel,"15.6""",Intel Core i7,8GB,256GB,Windows,10,2.591kg,8082828,Nvidia GeForce
+Dell,Inspiron,2in1 Convertible,Full HD,"15.6""",Intel Core i7,16GB,512GB,Windows,10,2.09kg,10483668,Intel HD Graphics
+Acer,Aspire,Notebook,Full HD,"15.6""",Intel Core i5,4GB,256GB,Windows,10,2.23kg,6144372,Nvidia GeForce
+Acer,Predator,Gaming,IPS Panel,"17.3""",Intel Core i7,16GB,256GB,Windows,10,4.2kg,23110308,Nvidia GeForce
+Lenovo,Legion,Gaming,IPS Panel,"15.6""",Intel Core i5,8GB,1TB,Windows,10,2.4kg,7282548,Nvidia GeForce
+HP,250,Notebook,1366x768,"15.6""",Intel Core i5,4GB,500GB,Windows,10,1.86kg,4312620,Intel HD Graphics
+Dell,Inspiron,2in1 Convertible,IPS Panel,"13.3""",Intel Core i5,8GB,256GB,Windows,10,1.6kg,10661508,Intel HD Graphics
+HP,Pavilion,Notebook,IPS Panel,"15.6""",Intel Core i7,12GB,128GB,Windows,10,2.21kg,11799684,Nvidia GeForce
+Asus,Rog,Gaming,IPS Panel,"17.3""",Intel Core i7,16GB,512GB,Windows,10,4.3kg,19117800,Nvidia GeForce
+MSI,GS73VR,Gaming,Full HD,"17.3""",Intel Core i7,16GB,256GB,Windows,10,2.43kg,18218818.8,Nvidia GeForce
+Dell,Inspiron,Notebook,1366x768,"15.6""",Intel Core i3,4GB,128GB,Windows,10,2.3kg,4437108,AMD Radeon R7 
+Dell,Inspiron,2in1 Convertible,Full HD,"15.6""",Intel Core i7,16GB,512GB,Windows,10,2kg,11426220,Intel UHD Grapics
+Dell,XPS,Ultrabook,Quad HD+,"13.3""",Intel Core i7,16GB,512GB,Windows,10,1.2kg,23830560,Intel HD Graphics
+Asus,FX502VM-DM105T,Gaming,Full HD,"15.6""",Intel Core i7,8GB,1TB,Windows,10,2.2kg,10394748,Nvidia GeForce
+Dell,Inspiron,Notebook,Full HD,"15.6""",Intel Core i5,8GB,256GB,Windows,10,2.36kg,7904988,AMD Radeon R7 
+HP,15-bs025nv,Notebook,1366x768,"15.6""",Intel Core i5,8GB,256GB,Windows,10,1.91kg,5148468,Intel HD Graphics
+Lenovo,IdeaPad,Notebook,1366x768,"15.6""",AMD E-Series ,4GB,500GB,Windows,10,2.2kg,2658708,AMD Radeon R2 
+Acer,Aspire,Notebook,1600x900,"17.3""",Intel Core i3,8GB,1TB,Windows,10,3.3kg,5593068,Nvidia GeForce
+Asus,Rog,Gaming,Full HD,"15.6""",Intel Core i7,16GB,256GB,Windows,10,2.2kg,21776508,Nvidia GeForce
+Asus,FX502VM-AS73,Notebook,Full HD,"15.6""",Intel Core i7,16GB,128GB,Windows,10,2.2kg,15552108,Nvidia GeForce
+MSI,GS73VR,Gaming,IPS Panel,"17.3""",Intel Core i7,16GB,256GB,Windows,10,2.43kg,17330419.08,Nvidia GeForce
+Dell,Inspiron,2in1 Convertible,IPS Panel,"15.6""",Intel Core i5,8GB,256GB,Windows,10,2.191kg,8883108,Intel HD Graphics
+Asus,ROG,Gaming,Full HD,"17.3""",Intel Core i7,16GB,256GB,Windows,10,2.9kg,17330508,Nvidia GeForce
+Acer,E5,Notebook,1600x900,"17.3""",Intel Core i3,4GB,1TB,Windows,10,3.3kg,5317416,Nvidia GeForce
+Lenovo,IdeaPad,Gaming,IPS Panel,"15.6""",Intel Core i7,8GB,128GB,Windows,10,2.6kg,11310624,Nvidia GeForce
+Acer,SP714-51,2in1 Convertible,IPS Panel,"14.0""",Intel Core i7,8GB,256GB,Windows,10,1.2kg,10216908,Intel HD Graphics
+Lenovo,Thinkpad,Notebook,IPS Panel,"15.6""",Intel Core i7,8GB,256GB,Windows,10,2.3kg,13595868,Intel HD Graphics
+MSI,GP62MVR,Gaming,Full HD,"15.6""",Intel Core i7,8GB,128GB,Windows,10,2.2kg,13125570.12,Nvidia GeForce
+HP,15-bw009nv,Notebook,Full HD,"15.6""",AMD A12-Series,6GB,1TB,Windows,10,2.1kg,4703868,AMD Radeon 530
+Dell,Latitude,Ultrabook,Full HD,"12.5""",Intel Core i5,8GB,256GB,Windows,7,1.26kg,15235286.04,Intel HD Graphics
+Dell,Inspiron,2in1 Convertible,Full HD,"15.0""",Intel Core i3,4GB,500GB,Windows,10,2.08kg,4526028,Intel HD Graphics
+Asus,X540SA-RBPDN09,Notebook,1366x768,"15.6""",Intel Pentium,4GB,1TB,Windows,10,2.65kg,2747628,Intel HD Graphics
+Dell,XPS,Ultrabook,Quad HD+,"13.3""",Intel Core i7,8GB,256GB,Windows,10,1.29kg,13133484,Intel HD Graphics
+Lenovo,IdeaPad,Gaming,IPS Panel,"15.6""",Intel Core i7,16GB,128GB,Windows,10,2.6kg,9149868,Nvidia GeForce
+MSI,GL62M,Gaming,Full HD,"15.6""",Intel Core i7,8GB,128GB,Windows,10,2.2kg,10216908,Nvidia GeForce
+Lenovo,ThinkPad,Netbook,IPS Panel,"12.5""",Intel Core i7,16GB,512GB,Windows,10,1.3kg,14671800,Intel HD Graphics
+Razer,Blade,Gaming,Full HD,"14.0""",Intel Core i7,16GB,1TB,Windows,10,1.95kg,31113108,Nvidia GeForce
+Dell,Inspiron,Notebook,Touchscreen,"15.6""",Intel Core i3,8GB,1TB,Windows,10,2.3kg,4170436.92,Intel HD Graphics
+MSI,GE72VR,Gaming,Full HD,"17.3""",Intel Core i7,16GB,256GB,Windows,10,2.7kg,14209416,Nvidia GeForce
+HP,15-bs023nv,Notebook,Full HD,"15.6""",Intel Core i3,4GB,1TB,Windows,10,2.1kg,4250376,Intel HD Graphics
+HP,EliteBook,Ultrabook,2560x1440,"14.0""",Intel Core i7,8GB,256GB,Windows,7,1.54kg,19546305.48,Intel HD Graphics
+Dell,Vostro,Notebook,1366x768,"15.6""",Intel Core i5,4GB,500GB,Windows,7,2.24kg,6553404,Intel HD Graphics
+MSI,GL62,Gaming,Full HD,"15.6""",Intel Core i7,8GB,128GB,Windows,10,2.3kg,10394748,Nvidia GeForce
+Lenovo,ThinkPad,Notebook,IPS Panel,"13.3""",Intel Core i7,16GB,512GB,Windows,10,1.4kg,13329108,Intel HD Graphics
+Lenovo,IdeaPad,Notebook,Full HD,"15.6""",AMD A12-Series,6GB,256GB,Windows,10,2.2kg,5313592.44,AMD Radeon 530
+Asus,ZenBook,Ultrabook,Full HD,"13.3""",Intel Core i7,8GB,256GB,Windows,10,1.45kg,11381760,Intel HD Graphics
+Dell,Inspiron,2in1 Convertible,Full HD,"17.3""",Intel Core i7,16GB,512GB,Windows,10,2.77kg,15996708,Nvidia GeForce
+HP,EliteBook,Notebook,Full HD,"14.0""",Intel Core i5,4GB,256GB,Windows,7,1.54kg,9781111.08,Intel HD Graphics
+Asus,Rog,Gaming,IPS Panel,"15.6""",Intel Core i7,16GB,256GB,Windows,10,2.5kg,14227200,Nvidia GeForce
+Dell,Latitude,Notebook,1366x768,"14.0""",Intel Core i5,4GB,500GB,Windows,10,1.6kg,7780500,Intel HD Graphics
+Asus,Rog,Gaming,IPS Panel,"15.6""",Intel Core i7,16GB,256GB,Windows,10,2.34kg,20673900,Nvidia GeForce
+Dell,XPS,2in1 Convertible,Quad HD+,"13.3""",Intel Core i5,8GB,256GB,Windows,10,1.24kg,16121196,Intel HD Graphics
+HP,255,Notebook,1366x768,"15.6""",AMD A6-Series,4GB,500GB,Windows,10,1.86kg,3547908,AMD Radeon R4 
+Lenovo,IdeaPad,Notebook,Full HD,"15.6""",Intel Core i3,6GB,128GB,Windows,10,2.4kg,5059548,Nvidia GeForce
+Lenovo,ThinkPad,Notebook,IPS Panel,"14.0""",Intel Core i5,8GB,256GB,Windows,10,1.9kg,9532224,Intel HD Graphics
+Dell,Inspiron,Notebook,1366x768,"15.6""",Intel Pentium,4GB,500GB,Windows,10,2.2kg,3947959.08,Intel HD Graphics
+Asus,X541NA-GO020T,Notebook,1366x768,"15.6""",Intel Celeron,4GB,1TB,Windows,10,2kg,3014388,Intel HD Graphics
+Asus,Rog,Gaming,IPS Panel,"17.3""",Intel Core i7,16GB,128GB,Windows,10,4.0kg,16894800,Nvidia GeForce
+Dell,Vostro,Notebook,1366x768,"15.6""",Intel Core i3,4GB,500GB,Windows,10,2.29kg,4357080,Intel HD Graphics
+Lenovo,B51-80,Notebook,Full HD,"15.6""",Intel Core i7,8GB,1TB,Windows,7,2.32kg,7958340,AMD Radeon R5 
+MSI,GE62,Gaming,Full HD,"15.6""",Intel Core i7,8GB,128GB,Windows,10,2.4kg,10928268,Nvidia GeForce
+Lenovo,Yoga,2in1 Convertible,Full HD,"14.0""",Intel Core i5,4GB,128GB,Windows,10,1.8kg,7407124.92,Intel HD Graphics
+Asus,ZenBook,Ultrabook,IPS Panel,"13.3""",Intel Core M ,8GB,512GB,Windows,10,1.2kg,6482268,Intel HD Graphics
+Dell,Inspiron,Notebook,1366x768,"15.6""",Intel Core i3,6GB,1TB,Windows,10,2.3kg,4081428,Intel HD Graphics
+Dell,Inspiron,Notebook,1366x768,"15.6""",Intel Celeron,2GB,500GB,Windows,10,2.20kg,3370068,Intel HD Graphics
+Lenovo,IdeaPad,Notebook,IPS Panel,"15.6""",Intel Core i7,8GB,1TB,Windows,10,2.6kg,7993908,Nvidia GeForce
+HP,Pavilion,Notebook,Full HD,"15.6""",AMD A9-Series,6GB,1TB,Windows,10,2.04kg,4890511.08,AMD Radeon R7 
+HP,Stream,Netbook,1366x768,"11.6""",Intel Celeron,2GB,32GB,Windows,10,1.17kg,1858428,Intel HD Graphics
+Asus,X556UJ-XO044T,Notebook,1366x768,"15.6""",Intel Core i7,4GB,500GB,Windows,10,2.2kg,6405085.44,Nvidia GeForce
+Lenovo,Yoga,2in1 Convertible,IPS Panel,"14.0""",Intel Core i7,4GB,128GB,Windows,10,1.8kg,5673096,Intel HD Graphics
+Lenovo,Yoga,2in1 Convertible,IPS Panel,"13.3""",Intel Core i7,16GB,512GB,Windows,10,1.3kg,13329108,Intel HD Graphics
+Lenovo,IdeaPad,Notebook,1366x768,"14.0""",Intel Celeron,2GB,64GB,Windows,10,1.5kg,2036268,Intel HD Graphics
+HP,15-AC110nv,Notebook,1366x768,"15.6""",Intel Core i7,6GB,1TB,Windows,10,2.19kg,6793488,AMD Radeon R5 
+Asus,X553SA-XX031T,Notebook,1366x768,"15.6""",Intel Celeron,4GB,500GB,Windows,10,2.2kg,3281148,Intel HD Graphics
