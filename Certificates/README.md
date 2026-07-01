@@ -1,2 +1,2 @@
-# Certificates and Accomplishments
-Completed certifications/accomplishments in data analytics tools. 
+# Certificates and Statement of Accomplishments
+Completed certifications/ Statement of accomplishments in data analytics tools. 
