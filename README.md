@@ -67,8 +67,6 @@ Learned:
 - Power Pivot
 - Dashboard Basics
 
-Projects:
-
 ### SQL
 
 Learned
@@ -76,19 +74,13 @@ Learned
 - SELECT
 - JOIN
 - GROUP BY
+- WHERE
 - ORDER BY
 - Window Functions
 - CTE
 - CASE Expressions
 - Temp. Table
-
-Projects:
-
-Employee Database
-
-Customer Analytics
-
-Business Questions
+  
 
 ### Power BI
 
@@ -97,15 +89,21 @@ Learned
 - Data Modeling
 - Relationships
 - DAX
-- Interactive Dashboards (Basics)
+- Interactive Dashboards (Basics).
 
-Projects:
+### Power Query
 
-Laundry Business Dashboard
+Learned 
+
+- Extract Transform Load (ETL)
+- Data Cleaning 
+
 
 ## **Courses & Learning Resources**
 
 ### YouTube
+
+Practice with 
 
 - Alex The Analyst
 - Chandoo
@@ -122,6 +120,7 @@ Receiving a DataCamp scholarship was a significant milestone in my journey. It a
 
 ## Books
 Collect, Combine, and Transform Data Using Power Query in Excel and Power BI by Gil Raviv.
+
 
 ## **Technical Skills Roadmap**
 
@@ -157,7 +156,8 @@ Recommendation
 
 ↓
 
-Decision Making
+Decision Making.
+
 
 ### Analytic Tools
 
@@ -226,11 +226,7 @@ How you use AI to improve my work
 > I leverage AI to accelerate repetitive tasks while maintaining ownership of the analytical process. AI helps me generate ideas, refine SQL queries, automate documentation, and improve dashboard design, allowing me to focus more on solving business problems.
 > 
 
-My Learning Philosophy 
-
-This makes you memorable.
-
-Example
+### My Learning Philosophy 
 
 "I believe analytics is not about building dashboards.
 
@@ -249,7 +245,7 @@ What I am learning now.
 - **Executive Product Health Analytics** – A high-level view for product leaders.
 
 
-# Future Vision
+### Future Vision
 
 "My long-term goal is to become a Technology & Digital Product Analytics professional who helps organizations build better products through data-driven decision-making and AI."
 
@@ -257,5 +253,5 @@ What I am learning now.
 ## Connect With Me
 
 - 🔗 LinkedIn: [www.linkedin.com/in/rahim-ali-461100289]
-- 🌐 Portfolio: [https://github.com/rahimali2000/Data-Analytics-Portfolio/edit/main/README.md]
+- 🌐 Portfolio: [https://github.com/rahimali2000/Data-Analytics-Portfolio/edit/main/README.md] / [https://github.com/rahimali2000/Data-Analytics-Portfolio]
 - 📧 Email: [abdulraheemali098@gmail.com]
