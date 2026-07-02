@@ -29,6 +29,7 @@ Rather than focusing only on learning software, I have dedicated my efforts to s
 ## Learning Roadmap
 
 Excel
+
 ↓
 
 Power Query
@@ -221,7 +222,7 @@ SuperMart Capstone Project (PostgreSQL)
 
 ## AI in Analytics
 
-How you use AI to improve my work
+How I use AI to improve my work
 
 > I leverage AI to accelerate repetitive tasks while maintaining ownership of the analytical process. AI helps me generate ideas, refine SQL queries, automate documentation, and improve dashboard design, allowing me to focus more on solving business problems.
 > 
